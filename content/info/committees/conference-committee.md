@@ -140,6 +140,7 @@ permalink: /info/committees/conference-committee
 | Mukund Raj | |
 | Kyle Hall | *TD Bank* |
 | Ashley Suh | *MIT Lincoln Laboratory* |
+| Nicole Sultanum | Tableau Research |
 |---
 | **Web Chairs** | |
 | Dylan Cashman | *Brandeis University* |
